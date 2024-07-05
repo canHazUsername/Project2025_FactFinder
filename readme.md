@@ -16,6 +16,14 @@ To get started with this repository, you can clone it to your local machine usin
 git clone https://github.com/canHazUsername/Project2025_FactFinder.git
 ```
 
+## Install Dependencies
+
+After cloning the repository, install the required Python packages using `pip`:
+
+```sh
+pip install -r requirements.txt
+```
+
 ## PDF Parsing
 
 The PDF document analyzed in `pdf_parse.py` is sourced from the following link:
